@@ -1,0 +1,2 @@
+cd C:\Users\Gisselle Jorquera\OneDrive - WS Cargo SpA\Escritorio\facturas_camilo
+python facturas_ncont.py
